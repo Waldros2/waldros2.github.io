@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Scott Waldron Portfolio
+subtitle: Version 1.0
 locale: en-US
 email: waldros2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -22,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: waldros2
 minimal_mistakes_skin: dark
 search: true
+repository: waldros2/waldros2.github.io
 
 # Build settings
 markdown: kramdown
