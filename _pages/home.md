@@ -5,6 +5,7 @@ title: Welcome to ...
 hidden: true
 header:
   overlay_image: /assets/images/lightbulb3.jpg
+  overlay_color: "#000"
 excerpt: >
   A place for coding inspiration <br/> 
   and technological innovation
