@@ -10,11 +10,11 @@ excerpt: >
   A place for coding inspiration <br/> 
   and technological innovation
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/blackKeyboard.jpg
+    alt: "Projects"
+    title: "Projects"
+    excerpt: "A collection of projects."
+    url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
@@ -34,11 +34,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% include paginator.html %}
