@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-hidden: true
+hidden: false
 header:
   overlay_image: /assets/images/lightbulb.jpg
   actions:
