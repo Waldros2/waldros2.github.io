@@ -26,6 +26,10 @@ minimal_mistakes_skin: dark
 search: true
 repository: waldros2/waldros2.github.io
 
+# Feed settings
+atom_feed:
+  hide: true
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
