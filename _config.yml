@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Scott Waldron Portfolio
-masthead_title: Scott Waldron
+masthead_title: A Coding Playground
 subtitle: A Portfolio of Interests and Works
 locale: en-US
 email: waldros2@gmail.com
@@ -72,7 +72,9 @@ comments:
 author:
   name   : "Scott Waldron"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Coder, Husband,   Algorithm Enthusiast"
+  bio    : > "Coder
+              Husband
+              Algorithm Enthusiast"
   links:
     - label: "Learning"
       icon: "fas fa-chalkboard-teacher"
