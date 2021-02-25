@@ -5,7 +5,8 @@ hidden: true
 header:
   overlay_image: /assets/images/lightbulb3.jpg
 excerpt: >
-  A place for coding inspiration and technological innovation
+  A place for coding inspiration <br/> 
+  and technological innovation
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
