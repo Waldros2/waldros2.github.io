@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/images/blackKeyboard.jpg
     alt: "Projects"
     title: "Projects"
-    excerpt: "A collection of projects."
+    excerpt: "A collection of personal and collaborative projects."
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
