@@ -72,9 +72,9 @@ comments:
 author:
   name   : "Scott Waldron"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : > "Coder
+  bio    : > Coder
               Husband
-              Algorithm Enthusiast"
+              Algorithm Enthusiast
   links:
     - label: "Learning"
       icon: "fas fa-chalkboard-teacher"
