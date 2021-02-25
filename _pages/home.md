@@ -4,6 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_image: /assets/images/lightbulb3.jpg
+  title: Welcome to ...
 excerpt: >
   A place for coding inspiration <br/> 
   and technological innovation
