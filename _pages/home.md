@@ -5,8 +5,7 @@ hidden: false
 header:
   overlay_image: /assets/images/lightbulb2.jpg
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.22.0">Latest release v4.22.0</a></small>
+  A place for coding inspiration and technological innovation
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
