@@ -70,11 +70,11 @@ comments:
     shortname: waldros2
 
 author:
-  name   : "Scott Waldron"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : > Coder
-              Husband
-              Algorithm Enthusiast
+  name      : "Scott Waldron"
+  avatar    : "/assets/images/bio-photo.jpg"
+  bio       : > "Coder...Husband...Algorithm Enthusiast"
+  location  : "Port Angeles, WA"
+  
   links:
     - label: "Learning"
       icon: "fas fa-chalkboard-teacher"
