@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Scott Waldron Portfolio
-subtitle: Version 1.0
+masthead_title: Scott Waldron
+subtitle: A portfolia of interests and works
 locale: en-US
 email: waldros2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
